@@ -15,6 +15,6 @@ Online Web development course  from coursera repository to save assignment
         <li>Module 1</li>
     </ul>
     <hr>
-    <ul><li><a href="">Module 1</a></li></ul>
+    <ul><li><a href="https://ankit8609.github.io/web-dev/module1/index.html">Module 1</a></li></ul>
 </body>
 </html>
